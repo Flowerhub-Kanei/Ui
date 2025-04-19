@@ -78,7 +78,8 @@ local themes = {
 				}
 			}
 		}
-	}	
+	},
+		
     Dark = {
         ['Shadow'] = Color3.fromRGB(15, 15, 15),
         ['Background'] = Color3.fromRGB(20, 20, 20),
